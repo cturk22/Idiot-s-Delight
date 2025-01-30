@@ -3,5 +3,5 @@ The rules for removing them are simple, there are two "hot" spots, the most rece
 If the current card and the fourth card are the same suit, the middle two cards are removed from play, and if they are the same value, then all four cards are removed from play.
 There are no decisions to be made in this game, hence the name.
 
-Several members of my family claim to have won this game and I never have, so I envauvered to see hot likely it is that any given deck is in a pattern that meets the criteria to win the game.
+Several members of my family claim to have won this game and I never have, so I endeavored to see how likely it is that any given deck is in a pattern that meets the criteria to win the game.
 This is my code to create a deck of cards and play Idiot's Delight.
